@@ -1,0 +1,138 @@
+h1 {
+    font-family: 'Barrio', cursive;
+    font-size: 70px;
+    line-height: 70%;
+}
+
+h2 {
+    font-family: 'Barrio', cursive;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+
+
+h5 {
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+h7 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 10%;
+}
+
+.navbar-brand {
+    padding: 15px;
+    margin-right: 12%;
+}
+
+
+
+.main-nav {
+    margin-bottom: 80px;
+    background-color: #FF004C;
+}
+
+#search {
+    color: #610D4B;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.tested {
+    background-color: #FF004C;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.donate {
+    background-color: #610D4B;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.active {
+    background-color: #610D4B !important;
+}
+
+
+.main-content {
+    margin-top: 40px;
+}
+
+
+.listing {
+    border-top: 1px solid #cccccc;
+    padding: 20px 0 0 0;
+    margin-top: 35px 0;
+    margin-bottom: 30px;
+    clear: both;
+}
+
+.social {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.socialblock {
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.social-icon {
+    padding-left: 15px;
+    color: #FF004C;
+    margin-bottom: 55px;
+
+}
+
+
+
+.btn-subscribe {
+    background-color: #FF004C;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.subscribe {
+    padding-top: 6px;
+    padding-bottom: 50px;
+}
+
+.footwrap {
+    background-color: #F1F1F1;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 18px;
+}
