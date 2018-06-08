@@ -76,6 +76,10 @@ h7 {
     background-color: #610D4B !important;
 }
 
+.appt {
+    background-color: #FF004C !important;
+    border-color:  #FF004C !important;
+}
 
 .main-content {
     margin-top: 40px;
@@ -88,6 +92,14 @@ h7 {
     margin-top: 35px 0;
     margin-bottom: 30px;
     clear: both;
+}
+
+.nonsf {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+    margin-bottom: -50px;
 }
 
 .social {
